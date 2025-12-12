@@ -1,3 +1,20 @@
+#arithemetic module
+
+def add(a,b):
+    return a+b
+
+def sub(a,b):
+    return a-b
+
+def mul(a,b):
+    return a*b
+
+def div(a,b):
+    return a//b
+
+
+#start main menu
+
 import calculator as calc
 
 while True:
@@ -9,7 +26,9 @@ while True:
     print("5.Quit")
 
     choice = int(input("Enter Your Choice:"))
-
+    
+    #condition to exit or continue
+    
     if choice == 5:
         print("Exited")
         break
@@ -26,4 +45,5 @@ while True:
         elif choice == 4:
             print(calc.div(a,b))    
         else:
+
             print("Invalid")
