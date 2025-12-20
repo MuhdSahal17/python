@@ -1,4 +1,27 @@
-I’m a 3rd year Diploma student in Computer Engineering, currently improving my skills in Python programming, computer science fundamentals, and the basics of Machine Learning.
+🐍 Python Practice Repository
 
-I learn through small projects, daily practice, and consistent skill building.
-Right now, my main focus is becoming strong in Python, understanding programming logic, and learning the fundamentals of ML step by step.
+This repository contains Python practice programs created to understand and strengthen core programming concepts.
+Each file focuses on a specific topic, keeping the code simple, readable, and beginner-friendly.
+
+
+📚 Topics Covered
+
+Python basics & syntax
+
+Functions and arguments (*args, **kwargs)
+
+Object-Oriented Programming (OOP)
+
+Inheritance
+
+Multiple Inheritance
+
+Polymorphism
+
+Encapsulation
+
+Generators
+
+Modules
+
+Simple logic-based programs
